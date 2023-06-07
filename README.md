@@ -1,6 +1,9 @@
 # awesome-ML_academics_roadmaps
-For postdoctoral researchers, PhD students and master by research students, it is a place of free for you to find a roadmap on how to happily survive PhD and the job market! Contributions are welcomed!
-# awesome-ML_academics_roadmaps
+
+
+<!-- For postdoctoral researchers, PhD students and master by research students, it is a place of free for you to find a roadmap on how to happily survive PhD and the job market! Contributions are welcomed! -->
+
+
 
 Welcome to the Awesome Machine Learning Academics Roadmaps repository! This is a community-driven space designed especially for postdoctoral researchers, PhD students, and Masters by Research students navigating the realm of Machine Learning. Our mission is to support your academic journey, provide guidance on surviving your PhD, and help you prepare for the job market.
 
