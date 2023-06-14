@@ -13,9 +13,11 @@ Here, you can find curated resources including roadmaps, tips, advice, and much 
 
 1. **Surviving your PhD:** A comprehensive guide that gives you practical advice on how to navigate your PhD journey, from your first year to completion.
 2. **Machine Learning Roadmaps:** Detailed paths to guide your learning, from beginners to advanced topics in Machine Learning.
-3. **Job Market Preparation:** From CVs, cover letters, interview tips to job search strategies, we cover everything to help you land your dream job in Machine Learning.
+3. **Job Market Preparation:** From CVs, research statements, cover letters, interview tips to job search strategies, we cover everything to help you land your dream job in Machine Learning.
 
 + CVs: We prepared the academic CV template which is an amended version of the templates available on Overleaf by Rensselaer Polytechnic Institute (http://www.rpi.edu/dept/arc/training/latex/resumes/) and Michael DeCorte. Please find it in [**awesome-ML_academics_roadmaps/academic_cv**](https://github.com/mbai8854/awesome-ML_academics_roadmaps/tree/academic_cv/acdemic_cv).
+
++ Research statements: We share the research statements by ourselves and those publicly available. We are grateful to all the contributors. You can find them in [**awesome-ML_academics_roadmaps/academic_research_statements**](https://github.com/mbai8854/awesome-ML_academics_roadmaps/tree/academic_cv/academic_research_statements).
   
 + Job search: We constantly upload the job search tip articles and notes written by ourselves and collected online. Huge thanks for all the people who are willing to share their experiences on academic job hunting! Please find them in [**awesome-ML_academics_roadmaps/job_search_tips**](https://github.com/mbai8854/awesome-ML_academics_roadmaps/tree/academic_cv/job_search_tips).
     * We find [CRA job announcements](https://cra.org/ads/?search_keywords=&search_location=&search_categories%5B%5D=251&filter_job_type%5B%5D=) a great place for academic job search on EECS.
