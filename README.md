@@ -18,6 +18,8 @@ Here, you can find curated resources including roadmaps, tips, advice, and much 
   3.1 **CVs:** We prepared the academic CV template which is an amended version of the templates available on Overleaf by Rensselaer Polytechnic Institute (http://www.rpi.edu/dept/arc/training/latex/resumes/) and Michael DeCorte. Please find it in **awesome-ML_academics_roadmaps/academic_cv**.
   
   3.2 **Job search:** We constantly upload the job search tip articles and notes written by ourselves and collected online. Huge thanks for all the people who are willing to share their experiences on academic job hunting! Please find them in **awesome-ML_academics_roadmaps/job_search_tips**.
+
+
 4. **Mental Health & Well-being:** Because mental health matters, we've included resources to help you balance work and life, stress management techniques, and more.
 
 ## Contribution
