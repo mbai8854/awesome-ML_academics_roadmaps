@@ -18,6 +18,7 @@ Here, you can find curated resources including roadmaps, tips, advice, and much 
 + CVs: We prepared the academic CV template which is an amended version of the templates available on Overleaf by Rensselaer Polytechnic Institute (http://www.rpi.edu/dept/arc/training/latex/resumes/) and Michael DeCorte. Please find it in [**awesome-ML_academics_roadmaps/academic_cv**](https://github.com/mbai8854/awesome-ML_academics_roadmaps/tree/academic_cv/acdemic_cv).
   
 + Job search: We constantly upload the job search tip articles and notes written by ourselves and collected online. Huge thanks for all the people who are willing to share their experiences on academic job hunting! Please find them in [**awesome-ML_academics_roadmaps/job_search_tips**](https://github.com/mbai8854/awesome-ML_academics_roadmaps/tree/academic_cv/job_search_tips).
+    * We find [CRA job announcements](https://cra.org/ads/?search_keywords=&search_location=&search_categories%5B%5D=251&filter_job_type%5B%5D=) a great place for academic job search on EECS.
 
 
 4. **Mental Health & Well-being:** Because mental health matters, we've included resources to help you balance work and life, stress management techniques, and more.
